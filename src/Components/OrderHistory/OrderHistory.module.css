@@ -1,0 +1,29 @@
+.orderHistory{
+    /* background-color: rgb(174, 192, 121); */
+    display: flex;
+    justify-content: space-around;
+    /* width: 100%; */
+    font-size: 15px;
+    border-style: outset;
+    margin-bottom: 1rem;
+}
+.info{
+    width: 40rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+
+}
+.image img {
+    object-fit: contain;
+    height: 100%;
+    width: auto;
+}
+
+/* .userInformation{
+    background-color: aquamarine;
+} */

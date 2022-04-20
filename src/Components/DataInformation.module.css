@@ -1,0 +1,78 @@
+/* .image{
+    background-color: red;
+} */
+
+.singleData{
+    height: 100vh;
+    /* background-color: rgb(212, 163, 163); */
+    display: flex;
+    justify-content: space-around;
+    padding-top: 6rem;
+}
+.img{
+    width: 20rem;
+    height: 60vh;
+}
+.Wishlist{
+    /* background-color: rgb(196, 199, 199); */
+    height: 27rem;
+    width: 24rem;
+    padding: 1rem;
+    background-color: #c2c1be;
+}
+.nav-link active{
+    color: black;
+}
+.wishlistIcon{
+    position: relative;
+    top: -21.5rem;
+    left: 15.9rem;
+}
+.cart{
+    padding: 4px;
+    background-color: #FFA701;
+    font-size: 15px;
+    border-style: none;
+    font-weight: 500;
+    width: 9.7rem;
+    padding: 10px;
+    border-radius: 4px;
+}
+.buy{
+    padding: 4px;
+    background-color: #fb641b;
+    font-size: 15px;
+    border-style: none;
+    font-weight: 500;
+    width: 10rem;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.price {
+     margin-left: 13px;
+     /* background-color: bisque; */
+}
+.cartBuy{
+    /* background-color: #2bff01; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+.wishlistBag{
+    margin-left: 15px;
+}
+.description{
+    font-size: 11px;
+}
+.title{
+    font-weight: 700;
+}
+.heartIcon{
+    height: 2.5rem;
+    width: 2.5rem;
+    background-color: rgb(197, 199, 198);
+    border-radius: 50%;
+    border-style: none;
+}
+

@@ -1,0 +1,10 @@
+.nav-link active{
+    color: black;
+}
+.iconButton{
+    border-style: none;
+    background-color: white;
+}
+.iconButton:visited{
+    color: yellow;
+}
